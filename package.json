@@ -1,0 +1,21 @@
+{
+  "name": "image-reptile",
+  "version": "1.0.0",
+  "description": "a image-reptile by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "reptile",
+    "image-reptile",
+    "node"
+  ],
+  "author": "Vitaminaq",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
